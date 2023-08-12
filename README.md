@@ -1,13 +1,13 @@
 # odin-recipes
 TOP html project
 
-In this project I will create a html site, using the resources previously introduced.
-One of the most important resource is git and GitHub. Those two are still a bit shaky. I don't think that creating the html itself will be a big challenge.
+In this project I will create a html site (using the resources previously introduced).
+Git and GitHub are a bit shaky, I hope I'll get more confident. Whenever possible I try to use the terminal.
+Creating the html itself should be okay.
 
-Documentation of problems, what shall I revisit?
--
--
--
-
+Reflection during the project:
+- getting down the basics with git, I get by without looking at my notes
+- getting down the basics with html
+- need to pay attention to small details (like not forgetting the file extensions)
 
 Reflection after project submission:
