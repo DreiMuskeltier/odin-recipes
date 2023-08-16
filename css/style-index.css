@@ -1,8 +1,18 @@
-body {
-    width: 500px;
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
     line-height: 1.5;
+}
+
+body {
     background-color: whitesmoke;
 }
+
 
 h1 {
     color: darkorange;
@@ -10,25 +20,41 @@ h1 {
     font-size: 32px;
     width: 500px;
     height: auto;
+    margin:20px auto;
+    padding: 50px;
+    text-align: center;
 }
+
+
 
 ul {
-    list-style: circle;
+    list-style: none;
     color: black;
-    width: 460px;
-}
-/* from where does the 40px difference coming from? padding? margin? */
-
-div {
-    width: 500px;
+    text-align: center;
 }
 
 img {
-    width: 300px;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    display: block;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 400;
+    text-align: center;
+}
+
+.main {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.disclaimer {
+
 }
