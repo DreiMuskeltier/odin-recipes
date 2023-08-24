@@ -17,3 +17,6 @@ Reflection after project submission:
 - I also am more comfortable to use the terminal for basic functions (creating, deleting and moving files around)
 - I get how the .html elements function introduced up to this point. Although VS Code automatically closes the tags as soon as I make them. If using other tools I need to be aware of it
 - It took a surprising amount of time, even though I copied the layouts for the recipes instead of recreating them from scratch every single time
+
+
+<!-- TEST -->
